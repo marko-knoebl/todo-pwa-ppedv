@@ -1,0 +1,15 @@
+.todo {
+  padding: 8px;
+  margin: 8px 0;
+  background-color: lightblue;
+  cursor: default;
+}
+
+.done {
+  background-color: lightgrey;
+  text-decoration: line-through;
+}
+
+#delete-completed-btn {
+  margin-top: 16px;
+}
